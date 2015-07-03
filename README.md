@@ -4,4 +4,4 @@ Simple tool for checking how long your Windows session has been logged on during
 ![Screenshot](locksniffer_screenshot.png?raw=true)
 
 # Usage
-Just build with Visual Studio (or download binaries [here](locksniffer_1.0.zip)). From settings file you can select the location of the log file (if you want to put it to dropbox or something). Add the exe to startup folder of your account and that's it. You can bring up the UI from the tray icon.
+Just build with Visual Studio (or download binaries [here](locksniffer_1.0.zip?raw=true)). From settings file you can select the location of the log file (if you want to put it to dropbox or something). Add the exe to startup folder of your account and that's it. You can bring up the UI from the tray icon.
