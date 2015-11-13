@@ -1,5 +1,5 @@
 # LockSniffer
-Simple tool for checking how long your Windows session has been logged on during the day. Every time you run the app or unlock your work station, a log row is appended to a file. Similarly, when logging off or locking the machine a row is logged. You can check from the super beautiful UI how many times you were present during any day.
+Simple tool for checking how long your Windows session has been logged on during the day. Every time you run the app or unlock your work station, a log row is appended to a file. Similarly, when logging off or locking the machine a row is logged. You can check from the super beautiful UI how long you were present during the day.
 
 ![Screenshot](locksniffer_screenshot.png?raw=true)
 
