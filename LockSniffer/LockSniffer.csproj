@@ -50,6 +50,9 @@
   <ItemGroup>
     <Compile Include="LögEntry.cs" />
     <Compile Include="Lögger.cs" />
+    <Compile Include="NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="ReportForm.cs">
       <SubType>Form</SubType>
